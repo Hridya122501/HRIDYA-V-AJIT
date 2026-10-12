@@ -1,0 +1,6 @@
+{
+  "name": "SyncCinema - Real-Time Watch Party",
+  "description": "Real-time watch-party app with synchronized video playback, sub-250ms control propagation, drift auto-correction, live chat, shared playlists, group polls, and movie discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
